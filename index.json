@@ -1,0 +1,37 @@
+{
+  "title": "Pengenalan FastAPI",
+  "description": "Pada exercise ini, kita akan belajar tentang apa itu fastapi dan basic penggunaannya",
+  "time": "30 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Apa itu FastAPI",
+        "path": "step1.md",
+        "type": "markdown"
+      },
+      {
+        "title": "Menggunakan FastAPI",
+        "path": "step2.md",
+        "type": "markdown"
+      },
+      {
+        "title": "Challenge",
+        "path": "step3/index.json",
+        "type": "challenge"
+      }
+    ],
+    "intro": {
+      "content": "intro.md"
+    },
+    "finish": {
+      "content": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "editor-web"
+  },
+  "backend": {
+    "imageid": "playground-v2",
+    "open_ports": [80, 8000, 8080]
+  }
+}
